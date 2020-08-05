@@ -1,0 +1,12 @@
+[submodule "monolithToMicroserviceAWS-frontend"]
+	path = monolithToMicroserviceAWS-frontend
+	url = https://github.com/shahjuhi1108/monolithToMicroserviceAWS-frontend.git
+[submodule "monolithToMicroserviceAWS-reverseProxy"]
+	path = monolithToMicroserviceAWS-reverseProxy
+	url = https://github.com/shahjuhi1108/monolithToMicroserviceAWS-reverseProxy.git
+[submodule "monolithToMicroserviceAWS-feed"]
+	path = monolithToMicroserviceAWS-feed
+	url = https://github.com/shahjuhi1108/monolithToMicroserviceAWS-feed.git
+[submodule "monolithToMicroserviceAWS-user"]
+	path = monolithToMicroserviceAWS-user
+	url = https://github.com/shahjuhi1108/monolithToMicroserviceAWS-user.git
